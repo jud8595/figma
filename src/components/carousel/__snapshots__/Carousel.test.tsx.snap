@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a ServiceCard 1`] = `
+<div>
+  <div
+    aria-labelledby="carousel"
+    aria-valuemax="3"
+    aria-valuemin="1"
+    aria-valuenow="1"
+    class="sc-bczRLJ hvPcGN"
+    role="slider"
+  >
+    <div
+      class="sc-gsnTZi jQFcaO"
+    >
+      <div
+        class="sc-dkzDqf dijWDS active"
+      >
+        <div>
+          card1
+        </div>
+      </div>
+      <div
+        class="sc-dkzDqf dijWDS"
+      >
+        <div>
+          card2
+        </div>
+      </div>
+      <div
+        class="sc-dkzDqf dijWDS"
+      >
+        <div>
+          card3
+        </div>
+      </div>
+    </div>
+    <ul
+      class="sc-hKMtZM gGTovp"
+    >
+      <li
+        class="sc-eCYdqJ fpozIR active"
+      />
+      <li
+        class="sc-eCYdqJ fpozIR"
+      />
+      <li
+        class="sc-eCYdqJ fpozIR"
+      />
+    </ul>
+  </div>
+</div>
+`;

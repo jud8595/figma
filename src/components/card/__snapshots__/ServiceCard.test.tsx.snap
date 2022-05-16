@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a ServiceCard 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ cYicyH"
+  >
+    <div
+      class="sc-dkzDqf kIwMib"
+    >
+      mySmallTitle
+    </div>
+    <div
+      class="sc-gsnTZi iOMiLO"
+    >
+      myTitle
+    </div>
+    <div
+      class="sc-hKMtZM eMKIEi"
+    >
+      myContent
+    </div>
+    <button
+      class="sc-eCYdqJ bBePYn"
+    >
+      &gt;
+    </button>
+  </div>
+</div>
+`;
